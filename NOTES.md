@@ -190,10 +190,9 @@ baseline, so the SVG and the PNGs agree.
 
 ## Still open
 
-1. **No résumé download link.** A "Download résumé" button beside "Get in touch" is the
-   obvious home for it if wanted.
-2. **Not deployed.** No hosting config here yet. It is a static file, so GitHub Pages,
-   Netlify drop, or Firebase Hosting all work with no changes.
+Nothing. Résumé download button lives beside "View work" in the hero
+(`assets/Krunal_Khatri_Resume.pdf`), and the site is deployed at
+`https://krunal-khatri.github.io/`.
 
 ---
 
